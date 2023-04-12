@@ -1,6 +1,6 @@
 ## **Gatling Load Testing Tutorial**
 
-This repository contains the code examples and resources for the article "Gatling Load Testing Tutorial", which provides
+This repository contains the code examples and resources for the article ["Gatling Load Testing Tutorial"](https://medium.com/@mdportnov/stress-testing-with-gatling-kotlin-part-2-1eb13d489dc9), which provides
 an introduction to Gatling, a popular open-source load testing tool for web applications.
 
 ### Running the Examples
